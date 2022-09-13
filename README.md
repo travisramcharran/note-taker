@@ -3,7 +3,7 @@
 ## Description
 As a small business owner, I want to be able to write and save notes, so that I can organize my thoughts and kep track of tasks I need to complete
 
-![alt text](public/assets/screenshots/Screen%20Shot%202022-08-31%20at%2011.09.13%20PM.png)
+![alt text](public/assets/screenshots/Screen%20Shot%202022-09-12%20at%2011.12.17%20PM.png)
 ![alt text](public/assets/screenshots/Screen%20Shot%202022-09-12%20at%2011.12.08%20PM.png)
 
 ## Installation
