@@ -15,7 +15,7 @@ var activeNote = {};
 var getNotes = function() {
   
   return $.ajax({
-    url: "/api/notes/",
+    url: "api/notes/",
     method: "GET"
   });
 };
@@ -34,7 +34,7 @@ var saveNote = function(note) {
 var deleteNote = function(id) {
   
   return $.ajax({
-    url: "api/notes/" + id,
+    url: "/api/notes/" + id,
     method: "DELETE"
   });
 };
